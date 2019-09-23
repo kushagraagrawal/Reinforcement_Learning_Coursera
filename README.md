@@ -1,2 +1,2 @@
-# Reinforcement_Learning_Coursera
+# Reinforcement Learning Coursera
 Specialization on Reinforcement Learning offered by University of Alberta on Coursera
